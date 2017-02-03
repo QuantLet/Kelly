@@ -1,0 +1,26 @@
+
+Name of Quantlet: Stable_LogDensity_Financials
+
+
+Published in: tba
+
+
+Description: 'Stable_LogDensity_Financials compares parametric densities of Normal, Stable and Cauchy with empirical financial market returns on log-scale to emphasize non-normal behavior.'
+
+
+Keywords: stable, logarithmic, distribution, kernel, cauchy
+
+
+See also: Stable_Kelly_MomentDistribution, Stable_Kelly_MomentIncrease, Stable_Kelly_Rescaling, sim_stable, stable, mc_culloch, stabreg
+
+
+Author: NW
+
+
+Submitted: 2016-07-04
+
+
+Datafile: data.mat
+
+
+Example: 1.png

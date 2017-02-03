@@ -1,0 +1,23 @@
+
+Name of Quantlet: Stable_Kelly_Rescaling
+
+
+Published in: tba
+
+
+Description: 'Stable Rescaling illustrates the principle rescaling the distribution under stable distributions, i.e. elliptically stable distributions.'
+
+
+Keywords: stable, scaling, elliptical distribution, scatterplot, standardize, normalization
+See also: Stable_Kelly_LogDensityFinancials, Stable_Kelly_MomentIncrease, Stable_Kelly_MomentDistribution, sim_stable, stable
+
+
+Author: NW
+
+
+Submitted: 2016-07-04
+
+
+Datafile:
+
+Example: 1.png, 2.png
