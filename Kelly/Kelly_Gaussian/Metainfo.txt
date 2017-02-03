@@ -1,0 +1,20 @@
+
+Name of Quantlet: Kelly_Gaussian
+Published in: Metis
+
+
+Description: 'Kelly_Gaussian illustrates growth-optimal betting under repeated Gaussian trials.'
+
+
+Keywords: kelly, growth-optimal, normal distribution, blackjack, thorp
+
+See also: Kelly_Bernoulli, Kelly_Bernoulli_GUI, Stable_Kelly_Rescaling, Stable_Kelly_LogDensityFinancials
+Author: NW
+
+
+Submitted: 2016-10-09
+
+Datafile:
+
+
+Example: 1.png, 2.png

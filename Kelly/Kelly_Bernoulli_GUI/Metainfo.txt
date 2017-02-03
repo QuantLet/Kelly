@@ -1,0 +1,19 @@
+
+Name of Quantlet: Kelly_Bernoulli_GUI
+Published in: Metis
+
+
+Description: 'Kelly_Bernoulli_GUI illustrates growth-optimal betting under repeated Bernoulli trials. The according GUI visualizes/analyzes the Kelly trajectories.'
+
+
+Keywords: kelly, growth-optimal, transmission rate, blackjack, thorp, gui
+See also: Kelly_Bernoulli, Kelly_Gaussian
+Author: NW
+
+
+Submitted: 2016-10-09
+
+Datafile:
+
+
+Example: 1.png, 2.png
