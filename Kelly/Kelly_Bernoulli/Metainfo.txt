@@ -1,20 +1,18 @@
 
 Name of Quantlet: Kelly_Bernoulli
-Published in: Metis
 
+Published in: Metis
 
 Description: 'Kelly_Bernoulli illustrates growth-optimal betting under repeated Bernoulli trials'
 
 
-Keywords: kelly, growth-optimal, transmission rate, blackjack, thorp
+Keywords: 'kelly, growth-optimal, transmission rate, blackjack, thorp'
 
-See also: Kelly_Bernoulli_GUI, Kelly_Gaussian, Stable_Kelly_Rescaling
+See also: 'Kelly_Bernoulli_GUI, Kelly_Gaussian, Stable_Kelly_Rescaling'
+
 Author: NW
 
 
 Submitted: 2016-10-09
-
-Datafile:
-
 
 Example: 1.png, 2.png

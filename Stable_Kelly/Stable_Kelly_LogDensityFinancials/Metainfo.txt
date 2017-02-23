@@ -1,6 +1,5 @@
 
-Name of Quantlet: Stable_LogDensity_Financials
-
+Name of Quantlet: Stable_Kelly_LogDensityFinancials
 
 Published in: tba
 
