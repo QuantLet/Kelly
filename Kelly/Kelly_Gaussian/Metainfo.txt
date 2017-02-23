@@ -8,7 +8,7 @@ Description: 'Kelly_Bernoulli_GUI illustrates growth-optimal betting under repea
 
 
 Keywords: 'kelly, growth-optimal, transmission rate, blackjack, thorp, gui
-See also: Kelly_Bernoulli, Kelly_Gaussian'
+See also: 'Kelly_Bernoulli, Kelly_Gaussian'
 
 Author: NW
 
