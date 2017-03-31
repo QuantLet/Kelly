@@ -59,7 +59,7 @@ h=figure()
 plot(f_raw,W_Elog);hold all;
 plot(f_merton,W_Elog_merton,'d'); hold off;
 xlabel('f');%ylabel('E[log(W_T/W_t)]')
-%title('Optimaler Einsatz für ein Asset')
+%title('Optimaler Einsatz f?r ein Asset')
 %print(h,'-depsc','-r300','kelly_gaussian')
 
 
